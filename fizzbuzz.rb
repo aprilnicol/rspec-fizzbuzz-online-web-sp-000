@@ -5,7 +5,7 @@ def fizzbuzz
     returns "Fizz"
   elsif (fizzbuzz % 5)
     returns "Buzz"
-    
-    
-  
+
+
+
 end
