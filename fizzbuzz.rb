@@ -3,8 +3,7 @@
 def fizzbuzz
   if (fizzbuzz % 3)
     returns "Fizz"
-  elsif (fizzbuzz % 5)
-    returns "Buzz"
+
 
 
 
